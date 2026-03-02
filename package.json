@@ -2,7 +2,7 @@
   "name": "warec",
   "private": true,
   "devDependencies": {
-    "@tailwindcss/cli": "^4.2.0",
+    "@tailwindcss/cli": "^4.2.1",
     "tailwindcss": "^4.1.4"
   }
 }
